@@ -1,0 +1,13 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc 7.ts 8.ts",
+    "test": "node 7.js 8.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
